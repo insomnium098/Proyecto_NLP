@@ -2215,9 +2215,7 @@ binding	NN	binding NN PennPOS
 (	(	( ( NUPOS
 K	NN	k NN PennPOS
 d	NN	d NN PennPOS
-approx	RB	approx RB PennPOS
-.	.	. . NUPOS
-
+approx.	RB	approx. RB PennPOS
 4	CD	4 crd NUPOS
 ×	CD	× CD PennPOS
 10	CD	10 crd NUPOS
@@ -2464,12 +2462,8 @@ Cu	NN	cu NN PennPOS
 (	(	( ( NUPOS
 II	CD	II crd NUPOS
 )	)	) ) NUPOS
-.5	SYM	.5 SYM PennPOS
--	:	- : NUPOS
-phenyl-l	JJ	phenyl-l JJ PennPOS
-,10	CD	,10 CD PennPOS
--	:	- : NUPOS
-phe	SYM	phe SYM PennPOS
+.5-phenyl-l	JJ	.5-phenyl-l JJ PennPOS
+,10-phe	NN	,10-phe NN PennPOS
 -	:	- : NUPOS
 nanthroline	NN	nanthroline NN PennPOS
 showed	VBD	show VBN PennPOS

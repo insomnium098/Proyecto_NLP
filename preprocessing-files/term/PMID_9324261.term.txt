@@ -806,7 +806,7 @@ is	VBZ	be vbz NUPOS
 involved	FWRP	involve FWRP FreqTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
-regulation	FWRP	regulation FWRP FreqTag
+regulation	PRO	regulation PRO TermTag
 of	IN	of pp-f NUPOS
 intrinsic	JJ	intrinsic JJ PennPOS
 susceptibility	NN	susceptibility NN PennPOS
@@ -836,7 +836,7 @@ genes	FWRP	gene FWRP FreqTag
 and	CC	and cc NUPOS
 internal	JJ	internal JJ PennPOS
 pH	NN	ph NN PennPOS
-homeostasis	FWRP	homeostasis FWRP FreqTag
+homeostasis	PRO	homeostasis PRO TermTag
 (	(	( ( NUPOS
 43	CD	43 CD PennPOS
 )	)	) ) NUPOS
@@ -848,7 +848,7 @@ locus	NN	locus NN PennPOS
 consists	FWDOM	consist FWDOM FreqTag
 of	IN	of pp-f NUPOS
 two	FWRP	two FWRP FreqTag
-transcription	FWRP	transcription FWRP FreqTag
+transcription	PRO	transcription PRO TermTag
 units	NNS	unit NNS PennPOS
 ,	,	, , NUPOS
 marC	NN	marc NN PennPOS
@@ -1306,8 +1306,7 @@ and	CC	and cc NUPOS
 maintained	VBN	maintain VBN PennPOS
 at	IN	at pp NUPOS
 30	CD	30 crd NUPOS
-°	CD	° CD PennPOS
-C	NN	c NN PennPOS
+°C	NN	°C NN PennPOS
 in	IN	in IN PennPOS
 Luria-Bertani	NNP	Luria-Bertani NNP PennPOS
 (	(	( ( NUPOS
@@ -1747,8 +1746,7 @@ incubated	VBN	incubate VBN PennPOS
 overnight	JJ	overnight JJ PennPOS
 at	IN	at pp NUPOS
 30	CD	30 crd NUPOS
-°	CD	° CD PennPOS
-C	NN	c NN PennPOS
+°C	NN	°C NN PennPOS
 (	(	( ( NUPOS
 5	CD	5 crd NUPOS
 )	)	) ) NUPOS
@@ -2242,9 +2240,10 @@ incubated	VBN	incubate VBN PennPOS
 overnight	JJ	overnight JJ PennPOS
 at	IN	at pp NUPOS
 30	CD	30 crd NUPOS
-°	CD	° CD PennPOS
-C.	NNP	C. np1 NUPOS
-Platings	NNP	Platings NNP PennPOS
+°C	NN	°C NN PennPOS
+.	.	. . NUPOS
+
+Platings	NNS	plating NNS PennPOS
 were	VBD	be vbd NUPOS
 done	VBN	do vdn NUPOS
 in	IN	in IN PennPOS
@@ -2261,12 +2260,12 @@ was	VBD	be vbd NUPOS
 recorded	VBN	record VBN PennPOS
 as	IN	as c-acp NUPOS
 confluent	JJ	confluent JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 )	)	) ) NUPOS
 ,	,	, , NUPOS
 visible	JJ	visible JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 100	CD	100 crd NUPOS
 colonies	NNS	colony NNS PennPOS
@@ -2275,7 +2274,7 @@ colonies	NNS	colony NNS PennPOS
 ,	,	, , NUPOS
 or	CC	or cc NUPOS
 no	DT	no dx NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 )	)	) ) NUPOS
 .	.	. . NUPOS
@@ -2732,11 +2731,11 @@ pSRob	NN	pSRob NN PennPOS
 a	DT	a dt NUPOS
 ,	,	, , NUPOS
 confluent	JJ	confluent JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 ;	:	; : NUPOS
 ,	,	, , NUPOS
 visible	JJ	visible JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 100	CD	100 crd NUPOS
 colonies	NNS	colony NNS PennPOS
@@ -2744,7 +2743,7 @@ colonies	NNS	colony NNS PennPOS
 ;	:	; : NUPOS
 ,	,	, , NUPOS
 no	DT	no dx NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 .	.	. . NUPOS
 
 b	NN	b NN PennPOS
@@ -3264,7 +3263,7 @@ EOP	NN	EOP NN PennPOS
 assay	NN	assay NN PennPOS
 to	TO	to p-acp NUPOS
 compare	VB	compare VBP PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
 presence	FWRP	presence FWRP FreqTag
@@ -3449,11 +3448,11 @@ pSRob	NN	pSRob NN PennPOS
 a	DT	a dt NUPOS
 ,	,	, , NUPOS
 confluent	JJ	confluent JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 ;	:	; : NUPOS
 ,	,	, , NUPOS
 visible	JJ	visible JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 100	CD	100 crd NUPOS
 colonies	NNS	colony NNS PennPOS
@@ -3461,7 +3460,7 @@ colonies	NNS	colony NNS PennPOS
 ;	:	; : NUPOS
 ,	,	, , NUPOS
 no	DT	no dx NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 .	.	. . NUPOS
 
 b	NN	b NN PennPOS
@@ -3590,7 +3589,7 @@ b	NN	b NN PennPOS
 EOP	NN	EOP NN PennPOS
 experiment	NN	experiment NN PennPOS
 comparing	VBG	compare VBG PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 on	IN	on IN PennPOS
 cyclohexane-overlaid	JJ	cyclohexane-overlaid JJ PennPOS
 plates	NNS	plate NNS PennPOS
@@ -3645,7 +3644,7 @@ stress	FWRP	stress FWRP FreqTag
 could	MD	can vmd NUPOS
 certainly	RB	certain av-j NUPOS
 include	VB	include VBP PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 in	IN	in IN PennPOS
 an	DT	a dt NUPOS
 environment	NN	environment NN PennPOS
@@ -3835,7 +3834,7 @@ of	IN	of pp-f NUPOS
 AG100	NN	AG100 NN PennPOS
 selected	VBN	select VBN PennPOS
 for	IN	for c-acp NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
 presence	FWRP	presence FWRP FreqTag
@@ -4010,7 +4009,7 @@ to	TO	to p-acp NUPOS
 n-hexane	NN	n-hexane NN PennPOS
 and	CC	and cc NUPOS
 produced	VBD	produce VBD PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 on	IN	on IN PennPOS
 cyclohexane	NN	cyclohexane NN PennPOS
 .	.	. . NUPOS
@@ -4073,7 +4072,7 @@ pMAK-TU1	NN	pMAK-TU1 NN PennPOS
 TU2	NN	TU2 NN PennPOS
 ,	,	, , NUPOS
 produced	VBD	produce VBD PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 on	IN	on IN PennPOS
 cyclohexane	NN	cyclohexane NN PennPOS
 .	.	. . NUPOS
@@ -5939,7 +5938,7 @@ biological	JJ	biological JJ PennPOS
 activity	FWRP	activity FWRP FreqTag
 of	IN	of pp-f NUPOS
 plant	NN	plant NN PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 regulators	FWDOM	regulator FWDOM FreqTag
 and	CC	and cc NUPOS
 chloromycetin	NN	chloromycetin NN PennPOS
@@ -6426,7 +6425,7 @@ modulating	VBG	modulate VBG PennPOS
 role	FWRP	role FWRP FreqTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
-regulation	FWRP	regulation FWRP FreqTag
+regulation	PRO	regulation PRO TermTag
 of	IN	of pp-f NUPOS
 acrAB	NN	acrAB NN PennPOS
 genes	FWRP	gene FWRP FreqTag
@@ -6877,7 +6876,7 @@ Slonczewski	NNP	Slonczewski NNP PennPOS
 .	.	. . NUPOS
 
 Dual	JJ	dual JJ PennPOS
-regulation	FWRP	regulation FWRP FreqTag
+regulation	PRO	regulation PRO TermTag
 of	IN	of pp-f NUPOS
 inaA	NN	inaA NN PennPOS
 by	IN	by IN PennPOS

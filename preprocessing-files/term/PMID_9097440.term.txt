@@ -510,7 +510,7 @@ mutants	NNS	mutant NNS PennPOS
 OST3408	NN	OST3408 NN PennPOS
 ,	,	, , NUPOS
 shows	FWDOM	show FWDOM FreqTag
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
 presence	FWRP	presence FWRP FreqTag
@@ -739,7 +739,7 @@ sequenced	VBN	sequence VBN PennPOS
 ,	,	, , NUPOS
 and	CC	and cc NUPOS
 its	PRP$	its po31 NUPOS
-regulation	FWRP	regulation FWRP FreqTag
+regulation	PRO	regulation PRO TermTag
 has	VBZ	have vdz NUPOS
 been	VBN	be vbn NUPOS
 studied	VBN	study VBN PennPOS
@@ -1556,7 +1556,7 @@ early	JJ	early JJ PennPOS
 exponential	JJ	exponential JJ PennPOS
 phase	NN	phase NN PennPOS
 of	IN	of pp-f NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 ,	,	, , NUPOS
 the	DT	the dt NUPOS
 culture	NN	culture NN PennPOS
@@ -1888,7 +1888,7 @@ antibiotic	JJ	antibiotic JJ PennPOS
 which	WDT	which r-crq NUPOS
 completely	RB	complete av-j NUPOS
 inhibited	VBD	inhibit VBD PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 was	VBD	be vbd NUPOS
 defined	VBN	define VBN PennPOS
 as	IN	as c-acp NUPOS
@@ -2847,7 +2847,7 @@ pMW118	NN	pMW118 NN PennPOS
 ,	,	, , NUPOS
 showed	VBD	show VBN PennPOS
 no	DT	no dx NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
 presence	FWRP	presence FWRP FreqTag
@@ -3028,12 +3028,12 @@ overlaid	VBN	overlay VBN PennPOS
 with	IN	with pp NUPOS
 cyclohexane	NN	cyclohexane NN PennPOS
 ;	:	; : NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 )	)	) ) NUPOS
 or	CC	or cc NUPOS
 no	DT	no dx NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 )	)	) ) NUPOS
 is	VBZ	be vbz NUPOS
@@ -3136,7 +3136,7 @@ early	JJ	early JJ PennPOS
 exponential	JJ	exponential JJ PennPOS
 phase	NN	phase NN PennPOS
 of	IN	of pp-f NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 (	(	( ( NUPOS
 approximately	RB	approximate RB PennPOS
 5	CD	5 crd NUPOS
@@ -3176,7 +3176,7 @@ marA	NN	mara NN PennPOS
 )	)	) ) NUPOS
 maintained	VBD	maintain VBD PennPOS
 slow	JJ	slow JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 even	RB	even av-j NUPOS
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
@@ -3239,7 +3239,7 @@ Fig.	NN	fig. n1 NUPOS
 .	.	. . NUPOS
 
 These	DT	these d NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 characteristics	NNS	characteristic NNS PennPOS
 indicate	VBP	indicate VBP PennPOS
 opposite	JJ	opposite JJ PennPOS
@@ -4011,7 +4011,7 @@ solvent	JJ	solvent JJ PennPOS
 
 ,	,	, , NUPOS
 luxuriant	JJ	luxuriant JJ PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 covered	VBD	cover VBD PennPOS
 the	DT	the dt NUPOS
 entire	JJ	entire JJ PennPOS
@@ -4030,7 +4030,7 @@ spots	NNS	spot NNS PennPOS
 ;	:	; : NUPOS
 ,	,	, , NUPOS
 no	DT	no dx NUPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 ;	:	; : NUPOS
 DE	NN	DE NN PennPOS
 ,	,	, , NUPOS
@@ -4732,7 +4732,7 @@ MarR	TF	Marr TF TermTag
 and	CC	and cc NUPOS
 inhibiting	VBG	inhibit VBG PennPOS
 complex	FWRP	complex FWRP FreqTag
-formation	FWRP	formation FWRP FreqTag
+formation	PRO	formation PRO TermTag
 with	IN	with pp NUPOS
 the	DT	the dt NUPOS
 marO	NN	Maro np1 NUPOS
@@ -4800,7 +4800,7 @@ sodium	NN	sodium NN PennPOS
 salicylate	NN	salicylate NN PennPOS
 slightly	RB	slight av-j NUPOS
 inhibited	VBD	inhibit VBD PennPOS
-growth	FWRP	growth FWRP FreqTag
+growth	PRO	growth PRO TermTag
 of	IN	of pp-f NUPOS
 W3110	NN	W3110 NN PennPOS
 cells	NNS	cell NNS PennPOS
@@ -6898,7 +6898,7 @@ Slonczewski	NNP	Slonczewski NNP PennPOS
 .	.	. . NUPOS
 
 Dual	JJ	dual JJ PennPOS
-regulation	FWRP	regulation FWRP FreqTag
+regulation	PRO	regulation PRO TermTag
 of	IN	of pp-f NUPOS
 inaA	NN	inaA NN PennPOS
 by	IN	by IN PennPOS

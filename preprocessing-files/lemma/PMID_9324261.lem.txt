@@ -1306,8 +1306,7 @@ and	CC	and cc NUPOS
 maintained	VBN	maintain VBN PennPOS
 at	IN	at pp NUPOS
 30	CD	30 crd NUPOS
-°	CD	° CD PennPOS
-C	NN	c NN PennPOS
+°C	NN	°C NN PennPOS
 in	IN	in IN PennPOS
 Luria-Bertani	NNP	Luria-Bertani NNP PennPOS
 (	(	( ( NUPOS
@@ -1747,8 +1746,7 @@ incubated	VBN	incubate VBN PennPOS
 overnight	JJ	overnight JJ PennPOS
 at	IN	at pp NUPOS
 30	CD	30 crd NUPOS
-°	CD	° CD PennPOS
-C	NN	c NN PennPOS
+°C	NN	°C NN PennPOS
 (	(	( ( NUPOS
 5	CD	5 crd NUPOS
 )	)	) ) NUPOS
@@ -2242,9 +2240,10 @@ incubated	VBN	incubate VBN PennPOS
 overnight	JJ	overnight JJ PennPOS
 at	IN	at pp NUPOS
 30	CD	30 crd NUPOS
-°	CD	° CD PennPOS
-C.	NNP	C. np1 NUPOS
-Platings	NNP	Platings NNP PennPOS
+°C	NN	°C NN PennPOS
+.	.	. . NUPOS
+
+Platings	NNS	plating NNS PennPOS
 were	VBD	be vbd NUPOS
 done	VBN	do vdn NUPOS
 in	IN	in IN PennPOS

@@ -1306,8 +1306,7 @@ and	CC
 maintained	VBN
 at	IN
 30	CD
-°	CD
-C	NN
+°C	NN
 in	IN
 Luria-Bertani	NNP
 (	(
@@ -1747,8 +1746,7 @@ incubated	VBN
 overnight	JJ
 at	IN
 30	CD
-°	CD
-C	NN
+°C	NN
 (	(
 5	CD
 )	)
@@ -2242,9 +2240,10 @@ incubated	VBN
 overnight	JJ
 at	IN
 30	CD
-°	CD
-C.	NNP
-Platings	NNP
+°C	NN
+.	.
+
+Platings	NNS
 were	VBD
 done	VBN
 in	IN

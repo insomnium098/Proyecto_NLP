@@ -2215,9 +2215,7 @@ binding	NN
 (	(
 K	NN
 d	NN
-approx	RB
-.	.
-
+approx.	RB
 4	CD
 ×	CD
 10	CD
@@ -2464,12 +2462,8 @@ Cu	NN
 (	(
 II	CD
 )	)
-.5	SYM
--	:
-phenyl-l	JJ
-,10	CD
--	:
-phe	SYM
+.5-phenyl-l	JJ
+,10-phe	NN
 -	:
 nanthroline	NN
 showed	VBD
