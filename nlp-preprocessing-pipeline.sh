@@ -1,10 +1,10 @@
 #!/bin/sh
 echo 'Preprocessing files...'
-ORIGINAL_CORPUS_PATH=/Users/daniel/Desktop/ProyectoNLP/ARCHIVOS_NECESARIOS/ORIGINAL_CORPUS_PATH/original
-CORPUS_PATH=/Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets
-TERM_PATH=/Users/daniel/Desktop/ProyectoNLP/dictionaries
-POST_PATH=/Users/daniel/Desktop/ProyectoNLP/ARCHIVOS_NECESARIOS/POST_PATH/stanford-postagger-2018-02-27
-LEMMA_PATH=/Users/daniel/Desktop/ProyectoNLP/ARCHIVOS_NECESARIOS/LEMMA/biolemmatizer
+ORIGINAL_CORPUS_PATH=/home/daniel/Documents/Proyecto_NLP/ARCHIVOS_NECESARIOS/ORIGINAL_CORPUS_PATH/original
+CORPUS_PATH=/home/daniel/Documents/Proyecto_NLP/conditional-random-fields/data-sets
+TERM_PATH=/home/daniel/Documents/Proyecto_NLP/dictionaries
+POST_PATH=/home/daniel/Documents/Proyecto_NLP/ARCHIVOS_NECESARIOS/POST_PATH/stanford-postagger-2018-02-27
+LEMMA_PATH=/home/daniel/Documents/Proyecto_NLP/ARCHIVOS_NECESARIOS/LEMMA/biolemmatizer
 
 PRE=TRUE
 echo "   Preprocessing: $PRE"

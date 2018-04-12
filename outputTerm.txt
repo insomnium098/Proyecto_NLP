@@ -1,7 +1,7 @@
 -------------------------------- PARAMETERS --------------------------------
-Path to read input files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/lemma
-Path to place transformed files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/term
-Path to read term files: /Users/daniel/Desktop/ProyectoNLP/dictionaries
+Path to read input files: /home/daniel/Documents/Proyecto_NLP/conditional-random-fields/data-sets/lemma
+Path to place transformed files: /home/daniel/Documents/Proyecto_NLP/conditional-random-fields/data-sets/term
+Path to read term files: /home/daniel/Documents/Proyecto_NLP/dictionaries
 Let POS tag instead of substituting it by term or freq tag? False
 Compare with terms in lower case? False
 Compare with capitalize terms? False
@@ -10,6 +10,7074 @@ Loading biological term files...
    Terms read GENE size: 579
 
 Biological term tagging files...
+   Biological term tagging file...27476938.lem.txt
+repetitions: 1
+Word: Caveolin 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: Caveolin 1
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...21659414.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: matrix metalloprotease-1
+WordOrig: matrix metalloprotease-1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25959210.lem.txt
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+   Biological term tagging file...17363768.lem.txt
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gammaR
+repetitions: 1
+Word: IFN gammaR
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+   Biological term tagging file...29019702.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: phosphoglycerate dehydrogenase
+WordOrig: phosphoglycerate dehydrogenase
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24300094.lem.txt
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: NF kB
+   Biological term tagging file...25496490.lem.txt
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+   Biological term tagging file...27185272.lem.txt
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: E cadherin
+   Biological term tagging file...17710235.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26610737.lem.txt
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25162417.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...23911740.lem.txt
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+   Biological term tagging file...25929803.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...22771387.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: tissue factor
+WordOrig: tissue factor
+repetitions: 1
+Word: tissue factor
+WordOrig: tissue factor
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: c Fos
+repetitions: 1
+Word: c Fos
+repetitions: 1
+Word: AP 1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...28986385.lem.txt
+repetitions: 4
+Word: mothers against-decapentaplegic-homolog-3
+Word: mothers against decapentaplegic-homolog-3
+Word: mothers against decapentaplegic homolog-3
+Word: mothers against decapentaplegic homolog 3
+WordOrig: mothers against decapentaplegic homolog 3
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28178340.lem.txt
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 2
+repetitions: 1
+Word: IGFBP 1
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: YKL 40
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: YKL 40
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: YKL 40
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MMP 7
+   Biological term tagging file...22117501.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...22394287.lem.txt
+repetitions: 2
+Word: terminal deoxynucleotidyl-transferase
+Word: terminal deoxynucleotidyl transferase
+WordOrig: terminal deoxynucleotidyl transferase
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+   Biological term tagging file...23006535.lem.txt
+repetitions: 1
+Word: lysyl oxidase
+WordOrig: lysyl oxidase
+repetitions: 1
+Word: lysyl oxidase
+WordOrig: lysyl oxidase
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...12598227.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...11394717.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TNF alpha
+repetitions: 4
+Word: Transforming growth-factor-beta-1
+Word: Transforming growth factor-beta-1
+Word: Transforming growth factor beta-1
+Word: Transforming growth factor beta 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...7767546.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...23043088.lem.txt
+repetitions: 1
+Word: miR 154
+repetitions: 1
+Word: miR 154
+repetitions: 1
+Word: miR 134
+repetitions: 1
+Word: miR 410
+repetitions: 1
+Word: miR 382
+repetitions: 1
+Word: miR 487b
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 127
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 154
+repetitions: 1
+Word: miR 154
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 154
+repetitions: 1
+Word: miR 154
+repetitions: 1
+Word: miR 154
+   Biological term tagging file...21502778.lem.txt
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...17934117.lem.txt
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+   Biological term tagging file...26861876.lem.txt
+repetitions: 1
+Word: glucocorticoid receptor
+WordOrig: glucocorticoid receptor
+   Biological term tagging file...29279415.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 4
+Word: leucine rich-alpha-2-glycoprotein
+Word: leucine rich alpha-2-glycoprotein
+Word: leucine rich alpha 2-glycoprotein
+Word: leucine rich alpha 2 glycoprotein
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26286721.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: beclin 1
+WordOrig: beclin 1
+   Biological term tagging file...25451236.lem.txt
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+   Biological term tagging file...25906080.lem.txt
+   Biological term tagging file...29113323.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...22802287.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22703534.lem.txt
+repetitions: 6
+Word: nuclear factor-erythroid-2-related-factor-2
+Word: nuclear factor erythroid-2-related-factor-2
+Word: nuclear factor erythroid 2-related-factor-2
+Word: nuclear factor erythroid 2 related-factor-2
+Word: nuclear factor erythroid 2 related factor-2
+Word: nuclear factor erythroid 2 related factor 2
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26216407.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...8678788.lem.txt
+repetitions: 1
+Word: interleukin 8
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MCP 1
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 4
+Word: insulin like-growth-factor-1
+Word: insulin like growth-factor-1
+Word: insulin like growth factor-1
+Word: insulin like growth factor 1
+repetitions: 1
+Word: IGF 1
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: b FGF
+   Biological term tagging file...28493530.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...14653626.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: GLP 1
+   Biological term tagging file...28810065.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: endothelin 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: MMP 9
+   Biological term tagging file...23523906.lem.txt
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: NF kB
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF a
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...21475793.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...29351444.lem.txt
+repetitions: 1
+Word: COX 2
+   Biological term tagging file...24279676.lem.txt
+   Biological term tagging file...22173045.lem.txt
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23565148.lem.txt
+repetitions: 1
+Word: ALK 5
+   Biological term tagging file...27604640.lem.txt
+repetitions: 1
+Word: TGFb 1
+repetitions: 4
+Word: Transforming growth-factor-b-1
+Word: Transforming growth factor-b-1
+Word: Transforming growth factor b-1
+WordOrig: Transforming growth factor b-1
+repetitions: 1
+Word: TGFb 1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGFb 1
+   Biological term tagging file...25331544.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: thrombospondin 1
+repetitions: 1
+Word: Smad 7
+WordOrig: Smad 7
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: thrombospondin 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...19966781.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...28667660.lem.txt
+   Biological term tagging file...28182573.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26787543.lem.txt
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: let 7d
+   Biological term tagging file...29045477.lem.txt
+repetitions: 2
+Word: Histone deacetylase-6
+Word: Histone deacetylase 6
+WordOrig: Histone deacetylase 6
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: HIF 1a
+   Biological term tagging file...24811261.lem.txt
+repetitions: 2
+Word: NADPH oxidase-4
+Word: NADPH oxidase 4
+WordOrig: NADPH oxidase 4
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...27367854.lem.txt
+   Biological term tagging file...18569384.lem.txt
+repetitions: 3
+Word: Tumor necrosis-factor-alpha
+Word: Tumor necrosis factor-alpha
+WordOrig: Tumor necrosis factor-alpha
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...25032514.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...15855634.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: ZO 1
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...29351434.lem.txt
+repetitions: 4
+Word: Cub domain-containing-protein-1
+Word: Cub domain containing-protein-1
+Word: Cub domain containing protein-1
+Word: Cub domain containing protein 1
+WordOrig: Cub domain containing protein 1
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 4
+Word: Cub domain-containing-protein-1
+Word: Cub domain containing-protein-1
+Word: Cub domain containing protein-1
+Word: Cub domain containing protein 1
+WordOrig: Cub domain containing protein 1
+   Biological term tagging file...21871427.lem.txt
+repetitions: 2
+Word: matrix metalloproteinase-3
+WordOrig: matrix metalloproteinase-3
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: MMP 3
+repetitions: 1
+Word: b catenin
+   Biological term tagging file...23967091.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 140
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 140
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: miR 140
+repetitions: 1
+Word: miR 140
+repetitions: 1
+Word: miR 140
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 140
+   Biological term tagging file...12882453.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...18177235.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...27815256.lem.txt
+repetitions: 3
+Word: Toll like-receptor-4
+Word: Toll like receptor-4
+Word: Toll like receptor 4
+repetitions: 3
+Word: Toll like-receptor-4
+Word: Toll like receptor-4
+Word: Toll like receptor 4
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...23915349.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...15857893.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+   Biological term tagging file...27941755.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...28577568.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...18344408.lem.txt
+repetitions: 1
+Word: serine protease
+WordOrig: serine protease
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...8163656.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...17631612.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26538547.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...16948840.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...28420366.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: heme oxygenase-1
+WordOrig: heme oxygenase-1
+repetitions: 1
+Word: interleukin 6
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 6
+   Biological term tagging file...25533688.lem.txt
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: bone morphogenetic-protein-7
+Word: bone morphogenetic protein-7
+Word: bone morphogenetic protein 7
+WordOrig: bone morphogenetic protein 7
+repetitions: 1
+Word: BMP 7
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: BMP 5
+repetitions: 1
+Word: BMP 8B
+repetitions: 1
+Word: BMP 15
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: BMP 7
+   Biological term tagging file...11463599.lem.txt
+repetitions: 4
+Word: insulin like-growth-factor-1
+Word: insulin like growth-factor-1
+Word: insulin like growth factor-1
+Word: insulin like growth factor 1
+repetitions: 4
+Word: Insulin like-growth-factor-1
+Word: Insulin like growth-factor-1
+Word: Insulin like growth factor-1
+Word: Insulin like growth factor 1
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 1
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 1
+   Biological term tagging file...12837171.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26993524.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...25064447.lem.txt
+repetitions: 1
+Word: tenascin C
+repetitions: 1
+Word: tenascin C
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...21224216.lem.txt
+repetitions: 1
+Word: histone deacetylase
+WordOrig: histone deacetylase
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 1b
+   Biological term tagging file...27002405.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: Vasohibin 2
+repetitions: 1
+Word: VASH 2
+repetitions: 1
+Word: VASH 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: FGF 2
+repetitions: 1
+Word: VASH 2
+repetitions: 1
+Word: VASH 1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: FGF 2
+repetitions: 1
+Word: VASH 2
+repetitions: 1
+Word: VASH 1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...24853416.lem.txt
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+   Biological term tagging file...22446029.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23492187.lem.txt
+repetitions: 4
+Word: X linked-inhibitor-of-apoptosis
+Word: X linked inhibitor-of-apoptosis
+Word: X linked inhibitor of-apoptosis
+Word: X linked inhibitor of apoptosis
+repetitions: 4
+Word: X linked-inhibitor-of-apoptosis
+Word: X linked inhibitor-of-apoptosis
+Word: X linked inhibitor of-apoptosis
+Word: X linked inhibitor of apoptosis
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: ET 1
+   Biological term tagging file...25785991.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23468849.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...21278261.lem.txt
+   Biological term tagging file...25842923.lem.txt
+repetitions: 1
+Word: MMP 1
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: Ost 4
+repetitions: 1
+Word: Oct 4
+   Biological term tagging file...12899768.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: b FGF
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: b FGF
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: b FGF
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: b FGF
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IFN gamma
+   Biological term tagging file...28495857.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: c Jun
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...22815997.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: beclin 1
+WordOrig: beclin 1
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24886817.lem.txt
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25555634.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...16948989.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...22900087.lem.txt
+repetitions: 1
+Word: Syndecan 2
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 6
+Word: Insulin like-growth-factor-binding-protein-3
+Word: Insulin like growth-factor-binding-protein-3
+Word: Insulin like growth factor-binding-protein-3
+Word: Insulin like growth factor binding-protein-3
+Word: Insulin like growth factor binding protein-3
+Word: Insulin like growth factor binding protein 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: Syndecan 2
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGFBP 3
+   Biological term tagging file...28613983.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 2
+Word: NADPH oxidase-4
+Word: NADPH oxidase 4
+WordOrig: NADPH oxidase 4
+   Biological term tagging file...17498688.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...21420029.lem.txt
+repetitions: 1
+Word: mir 155
+repetitions: 1
+Word: mir 21
+repetitions: 1
+Word: mir 21
+repetitions: 1
+Word: mir 155
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+   Biological term tagging file...24418172.lem.txt
+repetitions: 1
+Word: Foxp 3
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...29130366.lem.txt
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+   Biological term tagging file...21471103.lem.txt
+repetitions: 3
+Word: protease activated-receptor-2
+Word: protease activated receptor-2
+Word: protease activated receptor 2
+repetitions: 1
+Word: tissue factor
+WordOrig: tissue factor
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: PAR 2
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: PAR 2
+repetitions: 1
+Word: PAR 2
+   Biological term tagging file...25446881.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28816543.lem.txt
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...28239659.lem.txt
+   Biological term tagging file...24625972.lem.txt
+repetitions: 1
+Word: V ATPase
+repetitions: 2
+Word: Bax inhibitor-1
+WordOrig: Bax inhibitor-1
+repetitions: 1
+Word: BI 1
+repetitions: 1
+Word: BI 1
+repetitions: 1
+Word: V ATPase
+repetitions: 1
+Word: V ATPase
+repetitions: 1
+Word: V ATPase
+repetitions: 1
+Word: BI 1
+repetitions: 1
+Word: V ATPase
+   Biological term tagging file...28573228.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...18093617.lem.txt
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...9817168.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-beta1
+Word: Transforming growth factor-beta1
+WordOrig: Transforming growth factor-beta1
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+   Biological term tagging file...22322297.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: Thy 1
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: Thy 1
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...15681824.lem.txt
+repetitions: 4
+Word: insulin like-growth-factor-I
+Word: insulin like growth-factor-I
+Word: insulin like growth factor-I
+Word: insulin like growth factor I
+repetitions: 1
+Word: IGF I
+repetitions: 1
+Word: IGFBP 3
+repetitions: 1
+Word: IGF I
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: IGFBP 3
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...20388759.lem.txt
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: PAI 1
+   Biological term tagging file...23764846.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28314802.lem.txt
+   Biological term tagging file...15734789.lem.txt
+repetitions: 1
+Word: IFN gammaR
+repetitions: 1
+Word: IFN gammaR
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 2
+Word: matrix metalloproteinase-7
+WordOrig: matrix metalloproteinase-7
+repetitions: 1
+Word: IFN gammaR
+repetitions: 1
+Word: IFN gammaR
+   Biological term tagging file...12610869.lem.txt
+   Biological term tagging file...23962103.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...20685750.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-beta1
+Word: Transforming growth factor-beta1
+WordOrig: Transforming growth factor-beta1
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+   Biological term tagging file...24594795.lem.txt
+repetitions: 1
+Word: miR 26a
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+repetitions: 1
+Word: miR 26a
+   Biological term tagging file...11306432.lem.txt
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: T beta-RII
+Word: T beta RII
+WordOrig: T beta RII
+repetitions: 2
+Word: T beta-RII
+Word: T beta RII
+WordOrig: T beta RII
+repetitions: 2
+Word: T beta-RII
+Word: T beta RII
+WordOrig: T beta RII
+repetitions: 2
+Word: T beta-RII
+Word: T beta RII
+WordOrig: T beta RII
+   Biological term tagging file...29459894.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26370615.lem.txt
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 455
+repetitions: 1
+Word: miR 3107
+   Biological term tagging file...26542979.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 1343
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 1343
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 1343
+repetitions: 1
+Word: miR 1343
+   Biological term tagging file...21511034.lem.txt
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: c jun
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: Egr 1
+repetitions: 1
+Word: Egr 1
+   Biological term tagging file...28254114.lem.txt
+repetitions: 2
+Word: matrix metalloproteinase-9
+WordOrig: matrix metalloproteinase-9
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 2
+Word: matrix metalloproteinase-9
+WordOrig: matrix metalloproteinase-9
+repetitions: 1
+Word: MMP 9
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 9
+   Biological term tagging file...29206498.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TNF a
+   Biological term tagging file...16776827.lem.txt
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+   Biological term tagging file...23399488.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: heme oxygenase-1
+WordOrig: heme oxygenase-1
+repetitions: 1
+Word: HO 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: HO 1
+   Biological term tagging file...21166126.lem.txt
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...20715983.lem.txt
+repetitions: 1
+Word: interleukin 8
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 8
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+   Biological term tagging file...27937011.lem.txt
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: TNF a
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...16933466.lem.txt
+repetitions: 1
+Word: MT5 MMP
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: MT5 MMP
+repetitions: 1
+Word: MT5 MMP
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...25361680.lem.txt
+   Biological term tagging file...24613900.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...23439433.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...23434591.lem.txt
+repetitions: 2
+Word: megakaryoblastic leukemia-1
+Word: megakaryoblastic leukemia 1
+WordOrig: megakaryoblastic leukemia 1
+repetitions: 1
+Word: BCL 2
+   Biological term tagging file...15564021.lem.txt
+   Biological term tagging file...24344132.lem.txt
+repetitions: 3
+Word: Aortic carboxypeptidase-like-protein
+Word: Aortic carboxypeptidase like-protein
+Word: Aortic carboxypeptidase like protein
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: smooth muscle-a-actin
+Word: smooth muscle a-actin
+WordOrig: smooth muscle a-actin
+repetitions: 3
+Word: Aortic carboxypeptidase-like-protein
+Word: Aortic carboxypeptidase like-protein
+Word: Aortic carboxypeptidase like protein
+   Biological term tagging file...16908447.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...25182202.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...25829947.lem.txt
+repetitions: 1
+Word: a SMA
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+   Biological term tagging file...28771711.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22661007.lem.txt
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: miR 31
+   Biological term tagging file...26867691.lem.txt
+repetitions: 4
+Word: Wnt1 inducible-signaling-protein-1
+Word: Wnt1 inducible signaling-protein-1
+Word: Wnt1 inducible signaling protein-1
+Word: Wnt1 inducible signaling protein 1
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 6
+   Biological term tagging file...23977848.lem.txt
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...29067109.lem.txt
+repetitions: 6
+Word: T cell-lymphoma-invasion-and-metastasis-1
+Word: T cell lymphoma-invasion-and-metastasis-1
+Word: T cell lymphoma invasion-and-metastasis-1
+Word: T cell lymphoma invasion and-metastasis-1
+Word: T cell lymphoma invasion and metastasis-1
+Word: T cell lymphoma invasion and metastasis 1
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+   Biological term tagging file...26971883.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: lysyl oxidase
+WordOrig: lysyl oxidase
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF a
+   Biological term tagging file...15030461.lem.txt
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF alpha
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 6
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...23043074.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...29031221.lem.txt
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26268659.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...26883801.lem.txt
+repetitions: 2
+Word: C/EBP homologous-protein
+Word: C/EBP homologous protein
+WordOrig: C/EBP homologous protein
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24050627.lem.txt
+   Biological term tagging file...22227563.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 2
+Word: terminal deoxynucleotidyl-transferase
+Word: terminal deoxynucleotidyl transferase
+WordOrig: terminal deoxynucleotidyl transferase
+repetitions: 1
+Word: caspase 3
+repetitions: 1
+Word: Bcl 2
+   Biological term tagging file...12475802.lem.txt
+repetitions: 4
+Word: insulin like-growth-factor-I
+Word: insulin like growth-factor-I
+Word: insulin like growth factor-I
+Word: insulin like growth factor I
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: interleukin 1beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF I
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...19460787.lem.txt
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IFN gamma
+   Biological term tagging file...21086900.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: caveolin 1
+   Biological term tagging file...27993290.lem.txt
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: COX 2
+   Biological term tagging file...21513813.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...25197006.lem.txt
+   Biological term tagging file...24953558.lem.txt
+repetitions: 5
+Word: WNT1 inducible-signaling-pathway-protein-1
+Word: WNT1 inducible signaling-pathway-protein-1
+Word: WNT1 inducible signaling pathway-protein-1
+Word: WNT1 inducible signaling pathway protein-1
+Word: WNT1 inducible signaling pathway protein 1
+repetitions: 1
+Word: miR 30a
+repetitions: 1
+Word: miR 30a
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27765762.lem.txt
+   Biological term tagging file...23021430.lem.txt
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IP 10
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...21498628.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22014187.lem.txt
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27942594.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: caspase 3
+   Biological term tagging file...19850962.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+   Biological term tagging file...26192087.lem.txt
+repetitions: 2
+Word: phosphoinositide 3-kinase
+WordOrig: phosphoinositide 3-kinase
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: TGF b
+repetitions: 2
+Word: phosphoinositide 3-kinase
+WordOrig: phosphoinositide 3-kinase
+repetitions: 1
+Word: TIMP 1
+   Biological term tagging file...25260753.lem.txt
+repetitions: 2
+Word: Forkhead Box-F1
+Word: Forkhead Box F1
+WordOrig: Forkhead Box F1
+repetitions: 2
+Word: Forkhead Box-F1
+Word: Forkhead Box F1
+WordOrig: Forkhead Box F1
+   Biological term tagging file...24204629.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26474459.lem.txt
+repetitions: 3
+Word: Protease activated-receptor-1
+Word: Protease activated receptor-1
+Word: Protease activated receptor 1
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: PAR 1
+repetitions: 1
+Word: PAR 1
+   Biological term tagging file...27013092.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27467922.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+   Biological term tagging file...27310652.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+   Biological term tagging file...18795102.lem.txt
+repetitions: 2
+Word: beta 1-integrin
+Word: beta 1 integrin
+WordOrig: beta 1 integrin
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: beta 1-integrin
+Word: beta 1 integrin
+WordOrig: beta 1 integrin
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...17379848.lem.txt
+repetitions: 1
+Word: Endothelin 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: Endothelin 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 3
+Word: endothelin type-A-receptors
+Word: endothelin type A-receptors
+Word: endothelin type A receptors
+WordOrig: endothelin type A receptors
+repetitions: 1
+Word: ET A
+repetitions: 3
+Word: extent, type-B-receptors
+Word: extent, type B-receptors
+Word: extent, type B receptors
+WordOrig: extent, type B receptors
+repetitions: 1
+Word: ET B
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET A
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: ET 1
+   Biological term tagging file...23817018.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: E cadherin
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...18402687.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...23755232.lem.txt
+repetitions: 1
+Word: cyclooxygenase 2
+WordOrig: cyclooxygenase 2
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+   Biological term tagging file...17504233.lem.txt
+repetitions: 1
+Word: Angiotensin II
+WordOrig: Angiotensin II
+repetitions: 2
+Word: ANG converting-enzyme
+Word: ANG converting enzyme
+WordOrig: ANG converting enzyme
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26599507.lem.txt
+repetitions: 1
+Word: serine protease
+WordOrig: serine protease
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: protease activated-receptor-2
+Word: protease activated receptor-2
+Word: protease activated receptor 2
+repetitions: 1
+Word: PAR 2
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...29118928.lem.txt
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+repetitions: 1
+Word: miR 5100
+   Biological term tagging file...28095470.lem.txt
+repetitions: 1
+Word: Semaphorin 7A
+repetitions: 1
+Word: Semaphorin 7A
+repetitions: 1
+Word: Semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: Semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 2
+Word: serum response-factor
+Word: serum response factor
+WordOrig: serum response factor
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+repetitions: 1
+Word: semaphorin 7A
+   Biological term tagging file...21212602.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: b catenin
+   Biological term tagging file...23143540.lem.txt
+   Biological term tagging file...24088250.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27942595.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...8680382.lem.txt
+repetitions: 1
+Word: interleukin 8
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: TNF alpha
+repetitions: 4
+Word: insulin like-growth-factor-1
+Word: insulin like growth-factor-1
+Word: insulin like growth factor-1
+Word: insulin like growth factor 1
+repetitions: 1
+Word: IGF 1
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: b FGF
+   Biological term tagging file...19117745.lem.txt
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...19614606.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...29046395.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23442250.lem.txt
+   Biological term tagging file...28847533.lem.txt
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 13
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 6
+   Biological term tagging file...28662409.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28213468.lem.txt
+repetitions: 1
+Word: Lefty A
+WordOrig: Lefty A
+repetitions: 1
+Word: Lefty A
+WordOrig: Lefty A
+repetitions: 1
+Word: Lefty A
+WordOrig: Lefty A
+repetitions: 1
+Word: Lefty A
+WordOrig: Lefty A
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: Lefty A
+WordOrig: Lefty A
+   Biological term tagging file...25524739.lem.txt
+repetitions: 1
+Word: miR 424
+repetitions: 1
+Word: miR 424
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: miR 424
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 424
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 424
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 424
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...12485463.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...22106015.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23436625.lem.txt
+   Biological term tagging file...27080864.lem.txt
+   Biological term tagging file...23470623.lem.txt
+repetitions: 7
+Word: Mitogen activated-protein-kinase-activated-protein-kinase-2
+Word: Mitogen activated protein-kinase-activated-protein-kinase-2
+Word: Mitogen activated protein kinase-activated-protein-kinase-2
+Word: Mitogen activated protein kinase activated-protein-kinase-2
+Word: Mitogen activated protein kinase activated protein-kinase-2
+Word: Mitogen activated protein kinase activated protein kinase-2
+Word: Mitogen activated protein kinase activated protein kinase 2
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 6
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 2
+Word: focal adhesion-kinase
+Word: focal adhesion kinase
+WordOrig: focal adhesion kinase
+   Biological term tagging file...20495078.lem.txt
+repetitions: 1
+Word: FGF 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: FGF 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: FGF 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: FGF 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: E cadherin
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: FGF 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: FGF 1
+repetitions: 1
+Word: FGF 1
+   Biological term tagging file...28821630.lem.txt
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: Interleukin 17A
+WordOrig: Interleukin 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: caspase 3
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: caspase 3
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+   Biological term tagging file...27867035.lem.txt
+   Biological term tagging file...22241478.lem.txt
+repetitions: 1
+Word: b catenin
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27746237.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...20671305.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...22189082.lem.txt
+   Biological term tagging file...24890164.lem.txt
+repetitions: 4
+Word: suppressor of-cytokine-signaling-1
+Word: suppressor of cytokine-signaling-1
+Word: suppressor of cytokine signaling-1
+Word: suppressor of cytokine signaling 1
+WordOrig: suppressor of cytokine signaling 1
+repetitions: 4
+Word: suppressor of-cytokine-signaling-1
+Word: suppressor of cytokine-signaling-1
+Word: suppressor of cytokine signaling-1
+Word: suppressor of cytokine signaling 1
+WordOrig: suppressor of cytokine signaling 1
+repetitions: 1
+Word: IL 4
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+   Biological term tagging file...25848047.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: acyl CoA-oxidase-1
+Word: acyl CoA oxidase-1
+Word: acyl CoA oxidase 1
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: AP 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: PPAR a
+   Biological term tagging file...23459460.lem.txt
+repetitions: 1
+Word: caveolin 1
+   Biological term tagging file...26264443.lem.txt
+repetitions: 2
+Word: hyaluronan synthase-2
+Word: hyaluronan synthase 2
+WordOrig: hyaluronan synthase 2
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27583344.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: a SMA
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...28860144.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...17982242.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-beta1
+Word: Transforming growth factor-beta1
+WordOrig: Transforming growth factor-beta1
+repetitions: 3
+Word: Transforming growth-factor-beta1
+Word: Transforming growth factor-beta1
+WordOrig: Transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 1beta
+   Biological term tagging file...24392001.lem.txt
+   Biological term tagging file...26276873.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...20176803.lem.txt
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+   Biological term tagging file...28726637.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26675886.lem.txt
+   Biological term tagging file...19361498.lem.txt
+   Biological term tagging file...7921435.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: IGF I
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF I
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF I
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF I
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26160872.lem.txt
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: annexin V
+WordOrig: annexin V
+   Biological term tagging file...16246848.lem.txt
+repetitions: 3
+Word: fibroblast growth-factor-2
+Word: fibroblast growth factor-2
+WordOrig: fibroblast growth factor-2
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: fibroblast growth-factor-2
+Word: fibroblast growth factor-2
+WordOrig: fibroblast growth factor-2
+repetitions: 1
+Word: FGF 2
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: FGF 2
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: FGF 2
+   Biological term tagging file...18395486.lem.txt
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+   Biological term tagging file...22854509.lem.txt
+repetitions: 1
+Word: b catenin
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: b catenin
+   Biological term tagging file...26442443.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...23499373.lem.txt
+repetitions: 4
+Word: focal adhesion-kinase-related-nonkinase
+Word: focal adhesion kinase-related-nonkinase
+Word: focal adhesion kinase related-nonkinase
+Word: focal adhesion kinase related nonkinase
+   Biological term tagging file...23499992.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+   Biological term tagging file...19597127.lem.txt
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: caspase 3
+repetitions: 1
+Word: caspase 3
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+   Biological term tagging file...16787145.lem.txt
+   Biological term tagging file...28469072.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28922731.lem.txt
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27317687.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: interleukin 6
+repetitions: 1
+Word: IL 6
+   Biological term tagging file...26072676.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...20676040.lem.txt
+   Biological term tagging file...24265486.lem.txt
+repetitions: 1
+Word: E cadherin
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23517551.lem.txt
+repetitions: 6
+Word: secreted protein-acidic-and-rich-in-cysteine
+Word: secreted protein acidic-and-rich-in-cysteine
+Word: secreted protein acidic and-rich-in-cysteine
+Word: secreted protein acidic and rich-in-cysteine
+Word: secreted protein acidic and rich in-cysteine
+Word: secreted protein acidic and rich in cysteine
+WordOrig: secreted protein acidic and rich in cysteine
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 2
+Word: integrin linked-kinase
+Word: integrin linked kinase
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...8520791.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+   Biological term tagging file...20395557.lem.txt
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: let 7d
+   Biological term tagging file...28148565.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...12570673.lem.txt
+repetitions: 1
+Word: interleukin 8
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IP 10
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...27658114.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...21253589.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 4
+Word: peroxisome proliferator-activated-receptor-y
+Word: peroxisome proliferator activated-receptor-y
+Word: peroxisome proliferator activated receptor-y
+Word: peroxisome proliferator activated receptor y
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+   Biological term tagging file...12055267.lem.txt
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 4
+Word: Transforming growth-factor-beta-1
+Word: Transforming growth factor-beta-1
+Word: Transforming growth factor beta-1
+Word: Transforming growth factor beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: caspase 3
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: Fas ligand
+WordOrig: Fas ligand
+repetitions: 1
+Word: Fas ligand
+WordOrig: Fas ligand
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: caspase 3
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+   Biological term tagging file...27071460.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28446589.lem.txt
+repetitions: 1
+Word: cyclosporine A
+WordOrig: cyclosporine A
+repetitions: 3
+Word: hypoxia inducible-factor-1a
+Word: hypoxia inducible factor-1a
+Word: hypoxia inducible factor 1a
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: cyclosporine A
+WordOrig: cyclosporine A
+repetitions: 3
+Word: hypoxia inducible-factor-1a
+Word: hypoxia inducible factor-1a
+Word: hypoxia inducible factor 1a
+repetitions: 1
+Word: HIF 1a
+repetitions: 1
+Word: HIF 1a
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: HIF 1a
+repetitions: 1
+Word: cyclosporine A
+WordOrig: cyclosporine A
+repetitions: 3
+Word: hypoxia inducible-factor-1a
+Word: hypoxia inducible factor-1a
+Word: hypoxia inducible factor 1a
+   Biological term tagging file...8918367.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...28678431.lem.txt
+repetitions: 3
+Word: epidermal growth-factor-receptor
+Word: epidermal growth factor-receptor
+Word: epidermal growth factor receptor
+WordOrig: epidermal growth factor receptor
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...25697336.lem.txt
+repetitions: 2
+Word: hepatocyte growth-factor
+Word: hepatocyte growth factor
+WordOrig: hepatocyte growth factor
+repetitions: 2
+Word: hepatocyte growth-factor
+Word: hepatocyte growth factor
+WordOrig: hepatocyte growth factor
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...26523510.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...24921217.lem.txt
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27508042.lem.txt
+repetitions: 1
+Word: MiR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: MiR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+   Biological term tagging file...19104148.lem.txt
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: beta catenin
+   Biological term tagging file...20483575.lem.txt
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...20693406.lem.txt
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...10337028.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...27279470.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23924348.lem.txt
+repetitions: 1
+Word: Syndecan 2
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: syndecan 2
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...16179636.lem.txt
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+   Biological term tagging file...12851645.lem.txt
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: MCP 1
+repetitions: 3
+Word: CC chemokine-receptor-2
+Word: CC chemokine receptor-2
+Word: CC chemokine receptor 2
+WordOrig: CC chemokine receptor 2
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...28389561.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 2
+Word: NADPH oxidase-4
+Word: NADPH oxidase 4
+WordOrig: NADPH oxidase 4
+repetitions: 1
+Word: AP 1
+   Biological term tagging file...29195901.lem.txt
+repetitions: 1
+Word: E cadherin
+   Biological term tagging file...9163845.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...22684844.lem.txt
+repetitions: 1
+Word: interleukin 6
+repetitions: 1
+Word: IL 6
+   Biological term tagging file...21135509.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...21882188.lem.txt
+repetitions: 3
+Word: Cysteine rich-protein-1
+Word: Cysteine rich protein-1
+Word: Cysteine rich protein 1
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: Cysteine rich-protein-1
+Word: Cysteine rich protein-1
+Word: Cysteine rich protein 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...24307592.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...11491168.lem.txt
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 3
+Word: Connective tissue-growth-factor
+Word: Connective tissue growth-factor
+Word: Connective tissue growth factor
+WordOrig: Connective tissue growth factor
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+   Biological term tagging file...16573560.lem.txt
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 4
+   Biological term tagging file...29409529.lem.txt
+repetitions: 6
+Word: signal transducer-and-activator-of-transcription-3
+Word: signal transducer and-activator-of-transcription-3
+Word: signal transducer and activator-of-transcription-3
+Word: signal transducer and activator of-transcription-3
+Word: signal transducer and activator of transcription-3
+Word: signal transducer and activator of transcription 3
+WordOrig: signal transducer and activator of transcription 3
+repetitions: 2
+Word: Janus kinase-2
+Word: Janus kinase 2
+WordOrig: Janus kinase 2
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: Bcl 2
+   Biological term tagging file...23258233.lem.txt
+repetitions: 2
+Word: bone morphogenetic-protein
+Word: bone morphogenetic protein
+WordOrig: bone morphogenetic protein
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: BMP 7
+   Biological term tagging file...26386411.lem.txt
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: cyclin D1
+WordOrig: cyclin D1
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25199049.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: PAI 1
+   Biological term tagging file...28754682.lem.txt
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27508041.lem.txt
+repetitions: 1
+Word: MiR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+repetitions: 1
+Word: miR 338
+   Biological term tagging file...24756129.lem.txt
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 1
+Word: mPGES 1
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 2
+Word: focal adhesion-kinase
+Word: focal adhesion kinase
+WordOrig: focal adhesion kinase
+repetitions: 1
+Word: mPGES 1
+   Biological term tagging file...19924381.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+   Biological term tagging file...24376648.lem.txt
+repetitions: 3
+Word: cartilage oligomeric-matrix-protein
+Word: cartilage oligomeric matrix-protein
+Word: cartilage oligomeric matrix protein
+WordOrig: cartilage oligomeric matrix protein
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...17496059.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...27878256.lem.txt
+   Biological term tagging file...20566741.lem.txt
+repetitions: 3
+Word: monocyte chemoattractant-protein-1
+Word: monocyte chemoattractant protein-1
+Word: monocyte chemoattractant protein 1
+WordOrig: monocyte chemoattractant protein 1
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...18621908.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+   Biological term tagging file...22295148.lem.txt
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...26895395.lem.txt
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: IL 6
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: IL 10
+   Biological term tagging file...21642472.lem.txt
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 2
+Word: focal adhesion-kinase
+Word: focal adhesion kinase
+WordOrig: focal adhesion kinase
+   Biological term tagging file...26415510.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27439438.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...12947024.lem.txt
+repetitions: 2
+Word: hepatocyte growth-factor
+Word: hepatocyte growth factor
+WordOrig: hepatocyte growth factor
+repetitions: 2
+Word: Hepatocyte growth-factor
+Word: Hepatocyte growth factor
+WordOrig: Hepatocyte growth factor
+   Biological term tagging file...23315259.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22246864.lem.txt
+repetitions: 1
+Word: Spiruchostatin A
+WordOrig: Spiruchostatin A
+repetitions: 1
+Word: Spiruchostatin A
+WordOrig: Spiruchostatin A
+repetitions: 1
+Word: histone deacetylase
+WordOrig: histone deacetylase
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...11713352.lem.txt
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+   Biological term tagging file...11350829.lem.txt
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...17163490.lem.txt
+   Biological term tagging file...16211459.lem.txt
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 2
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 3
+Word: fibroblast growth-factor-2
+Word: fibroblast growth factor-2
+WordOrig: fibroblast growth factor-2
+repetitions: 1
+Word: FGF 2
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: IGF 2
+repetitions: 1
+Word: FGF 2
+   Biological term tagging file...21984893.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 2
+Word: protein kinase-B
+Word: protein kinase B
+WordOrig: protein kinase B
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24276150.lem.txt
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25743626.lem.txt
+   Biological term tagging file...26846484.lem.txt
+   Biological term tagging file...16816361.lem.txt
+repetitions: 2
+Word: bone morphogenetic-protein
+Word: bone morphogenetic protein
+WordOrig: bone morphogenetic protein
+   Biological term tagging file...23380438.lem.txt
+repetitions: 2
+Word: serum amyloid-P
+Word: serum amyloid P
+WordOrig: serum amyloid P
+repetitions: 1
+Word: Pentraxin 2
+repetitions: 1
+Word: PTX 2
+repetitions: 2
+Word: serum amyloid-P
+Word: serum amyloid P
+WordOrig: serum amyloid P
+   Biological term tagging file...27029074.lem.txt
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...21700912.lem.txt
+repetitions: 1
+Word: Transglutaminase 2
+WordOrig: Transglutaminase 2
+repetitions: 1
+Word: Transglutaminase 2
+WordOrig: Transglutaminase 2
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...16607487.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+   Biological term tagging file...10188109.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...25660181.lem.txt
+repetitions: 3
+Word: Toll like-receptor-9
+Word: Toll like receptor-9
+Word: Toll like receptor 9
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27070485.lem.txt
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 17A
+   Biological term tagging file...19381013.lem.txt
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...20061443.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22240154.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: ZO 1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: superoxide dismutase-3
+Word: superoxide dismutase 3
+WordOrig: superoxide dismutase 3
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...16837501.lem.txt
+repetitions: 1
+Word: IL 18
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: TNF alpha
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 18
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 18
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 18
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: interleukin 8
+   Biological term tagging file...21044893.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...22284809.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23896962.lem.txt
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27869174.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...28081703.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26709222.lem.txt
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF a
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 10
+   Biological term tagging file...27513632.lem.txt
+repetitions: 5
+Word: High mobility-group-AT-hook-2
+Word: High mobility group-AT-hook-2
+Word: High mobility group AT-hook-2
+Word: High mobility group AT hook-2
+Word: High mobility group AT hook 2
+repetitions: 1
+Word: E cadherin
+   Biological term tagging file...25373521.lem.txt
+repetitions: 1
+Word: Stanniocalcin 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: Stanniocalcin 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23815594.lem.txt
+repetitions: 1
+Word: IL 10
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF a
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...24879051.lem.txt
+repetitions: 3
+Word: poly ADP-ribose-polymerase
+Word: poly ADP ribose-polymerase
+Word: poly ADP ribose polymerase
+   Biological term tagging file...24641440.lem.txt
+   Biological term tagging file...25505594.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...17198680.lem.txt
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: IFN gamma
+   Biological term tagging file...17975199.lem.txt
+repetitions: 2
+Word: bone morphogenetic-protein
+Word: bone morphogenetic protein
+WordOrig: bone morphogenetic protein
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: BMP 7
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...26934369.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...15946381.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: E cadherin
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...12540741.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...19701206.lem.txt
+repetitions: 1
+Word: NOX 2
+repetitions: 3
+Word: Transforming growth-factor-beta1
+Word: Transforming growth factor-beta1
+WordOrig: Transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: NOX 4
+repetitions: 1
+Word: SMAD 3
+repetitions: 1
+Word: NOX 4
+repetitions: 1
+Word: NOX 4
+repetitions: 1
+Word: NOX 4
+   Biological term tagging file...22088447.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: PAI 1
+   Biological term tagging file...23583521.lem.txt
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: caveolin 1
+   Biological term tagging file...29411215.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26093215.lem.txt
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: HO 1
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: ET 1
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: Bcl 2
+   Biological term tagging file...20061390.lem.txt
+repetitions: 1
+Word: beta catenin
+repetitions: 3
+Word: plasminogen activator-inhibitor-1
+Word: plasminogen activator inhibitor-1
+WordOrig: plasminogen activator inhibitor-1
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: PAI 1
+   Biological term tagging file...26887531.lem.txt
+repetitions: 3
+Word: Extracellular Matrix-Metalloproteinase-Inducer
+Word: Extracellular Matrix Metalloproteinase-Inducer
+Word: Extracellular Matrix Metalloproteinase Inducer
+WordOrig: Extracellular Matrix Metalloproteinase Inducer
+repetitions: 3
+Word: Extracellular Matrix-Metalloproteinase-Inducer
+Word: Extracellular Matrix Metalloproteinase-Inducer
+Word: Extracellular Matrix Metalloproteinase Inducer
+WordOrig: Extracellular Matrix Metalloproteinase Inducer
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23288928.lem.txt
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...19411308.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...28385812.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...8630262.lem.txt
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+   Biological term tagging file...18245174.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...10931794.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+   Biological term tagging file...25680454.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 2
+Word: Thymic stromal-lymphopoietin
+Word: Thymic stromal lymphopoietin
+WordOrig: Thymic stromal lymphopoietin
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 2
+Word: lymphotoxin beta-receptor
+Word: lymphotoxin beta receptor
+WordOrig: lymphotoxin beta receptor
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...29144435.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...20643828.lem.txt
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 21
+   Biological term tagging file...26956419.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...23220917.lem.txt
+repetitions: 1
+Word: Semaphorin 7a
+WordOrig: Semaphorin 7a
+repetitions: 1
+Word: Semaphorin 7a
+WordOrig: Semaphorin 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+repetitions: 1
+Word: IL 4
+repetitions: 1
+Word: IL 17A
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: Sema 7a
+WordOrig: Sema 7a
+   Biological term tagging file...19355895.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+   Biological term tagging file...23031257.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...21269063.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...22406480.lem.txt
+repetitions: 1
+Word: Serpin B4
+WordOrig: Serpin B4
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 4
+Word: transforming growth-factor-b-expression
+Word: transforming growth factor-b-expression
+Word: transforming growth factor b-expression
+Word: transforming growth factor b expression
+WordOrig: transforming growth factor b expression
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 1
+Word: Serpin B4
+WordOrig: Serpin B4
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+repetitions: 1
+Word: Serpin B4
+WordOrig: Serpin B4
+repetitions: 1
+Word: Serpin B3
+WordOrig: Serpin B3
+   Biological term tagging file...17579094.lem.txt
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...27390284.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...21103368.lem.txt
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...17178917.lem.txt
+repetitions: 1
+Word: Caveolin 1
+repetitions: 1
+Word: Caveolin 1
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: c Jun
+   Biological term tagging file...28360109.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 2
+Word: focal adhesion-kinase
+Word: focal adhesion kinase
+WordOrig: focal adhesion kinase
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: caspase 3
+repetitions: 2
+Word: terminal deoxynucleotidyl-transferase
+Word: terminal deoxynucleotidyl transferase
+WordOrig: terminal deoxynucleotidyl transferase
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...21864521.lem.txt
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...23055696.lem.txt
+   Biological term tagging file...27350126.lem.txt
+repetitions: 3
+Word: discoidin domain-receptor-2
+Word: discoidin domain receptor-2
+Word: discoidin domain receptor 2
+WordOrig: discoidin domain receptor 2
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+   Biological term tagging file...28131417.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...24529509.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22892132.lem.txt
+repetitions: 4
+Word: 150 kDa-oxygen-regulated-protein
+Word: 150 kDa oxygen-regulated-protein
+Word: 150 kDa oxygen regulated-protein
+Word: 150 kDa oxygen regulated protein
+repetitions: 4
+Word: 150 kDa-oxygen-regulated-protein
+Word: 150 kDa oxygen-regulated-protein
+Word: 150 kDa oxygen regulated-protein
+Word: 150 kDa oxygen regulated protein
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...29125826.lem.txt
+repetitions: 1
+Word: lysyl oxidase
+WordOrig: lysyl oxidase
+   Biological term tagging file...26207697.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...20081107.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...19700647.lem.txt
+repetitions: 1
+Word: histone deacetylase
+WordOrig: histone deacetylase
+repetitions: 1
+Word: histone deacetylase
+WordOrig: histone deacetylase
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: alpha SMA
+   Biological term tagging file...21169469.lem.txt
+repetitions: 2
+Word: Yin Yang-1
+Word: Yin Yang 1
+WordOrig: Yin Yang 1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...27560128.lem.txt
+repetitions: 1
+Word: Caveolin 1
+repetitions: 1
+Word: caveolin 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...26545872.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26248335.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27582065.lem.txt
+repetitions: 4
+Word: Enhancer of-zeste-homolog-2
+Word: Enhancer of zeste-homolog-2
+Word: Enhancer of zeste homolog-2
+Word: Enhancer of zeste homolog 2
+WordOrig: Enhancer of zeste homolog 2
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+   Biological term tagging file...24762191.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: NOX 4
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25365224.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 4
+Word: transient receptor-potential-vanilloid-4
+Word: transient receptor potential-vanilloid-4
+Word: transient receptor potential vanilloid-4
+Word: transient receptor potential vanilloid 4
+WordOrig: transient receptor potential vanilloid 4
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: MRTF A
+   Biological term tagging file...23760654.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: c Jun
+   Biological term tagging file...27769060.lem.txt
+repetitions: 1
+Word: miR 29a
+repetitions: 1
+Word: miR 29a
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 29a
+repetitions: 1
+Word: miR 29a
+repetitions: 1
+Word: miR 29a
+   Biological term tagging file...28873461.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: IL 17
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...19648289.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...25745043.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+   Biological term tagging file...25725128.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: let 7d
+repetitions: 1
+Word: miR 21
+repetitions: 1
+Word: miR 31
+repetitions: 1
+Word: let 7d
+   Biological term tagging file...28449458.lem.txt
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...27853171.lem.txt
+repetitions: 4
+Word: transforming growth-factor-b-1
+Word: transforming growth factor-b-1
+Word: transforming growth factor b-1
+WordOrig: transforming growth factor b-1
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 4
+Word: transforming growth-factor-b-1
+Word: transforming growth factor-b-1
+Word: transforming growth factor b-1
+WordOrig: transforming growth factor b-1
+repetitions: 1
+Word: TGFb 1
+repetitions: 1
+Word: TGFb 1
+repetitions: 1
+Word: TGFb 1
+repetitions: 1
+Word: TGFb 1
+repetitions: 1
+Word: TGFb 1
+repetitions: 1
+Word: TGFb 1
+   Biological term tagging file...25684348.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+   Biological term tagging file...15677772.lem.txt
+repetitions: 3
+Word: Connective tissue-growth-factor
+Word: Connective tissue growth-factor
+Word: Connective tissue growth factor
+WordOrig: Connective tissue growth factor
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+   Biological term tagging file...26600305.lem.txt
+repetitions: 3
+Word: epidermal growth-factor-receptor
+Word: epidermal growth factor-receptor
+Word: epidermal growth factor receptor
+WordOrig: epidermal growth factor receptor
+repetitions: 4
+Word: fibroblast growth-factor-receptor-2
+Word: fibroblast growth factor-receptor-2
+Word: fibroblast growth factor receptor-2
+Word: fibroblast growth factor receptor 2
+WordOrig: fibroblast growth factor receptor 2
+   Biological term tagging file...28128990.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 4
+Word: Krebs Von-Den-Lungen-6
+Word: Krebs Von Den-Lungen-6
+Word: Krebs Von Den Lungen-6
+WordOrig: Krebs Von Den Lungen-6
+repetitions: 1
+Word: KL 6
+repetitions: 2
+Word: matrix metalloproteinase-9
+WordOrig: matrix metalloproteinase-9
+repetitions: 1
+Word: MMP 9
+repetitions: 4
+Word: tissue inhibitors-of-metalloproteinases-1
+Word: tissue inhibitors of-metalloproteinases-1
+Word: tissue inhibitors of metalloproteinases-1
+WordOrig: tissue inhibitors of metalloproteinases-1
+repetitions: 1
+Word: TIMP 1
+repetitions: 1
+Word: cytokeratin 19
+WordOrig: cytokeratin 19
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: TIMP 1
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: TIMP 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: KL 6
+   Biological term tagging file...26098610.lem.txt
+repetitions: 1
+Word: Thymosin b4
+WordOrig: Thymosin b4
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27215343.lem.txt
+repetitions: 1
+Word: IGFBP 1
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: IGFBP 1
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IGFBP 2
+repetitions: 1
+Word: IGFBP 1
+repetitions: 1
+Word: IGFBP 2
+   Biological term tagging file...27494713.lem.txt
+   Biological term tagging file...25845491.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...22095546.lem.txt
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: Galectin 3
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: Galectin 3
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: b catenin
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: galectin 3
+repetitions: 1
+Word: galectin 3
+   Biological term tagging file...11502094.lem.txt
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...27576730.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24958208.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 17A
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...26059457.lem.txt
+   Biological term tagging file...21056957.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28414923.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...28259823.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...16842247.lem.txt
+repetitions: 2
+Word: extracellular superoxide-dismutase
+Word: extracellular superoxide dismutase
+WordOrig: extracellular superoxide dismutase
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...1892646.lem.txt
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...11776068.lem.txt
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF 1
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: PDGF A
+repetitions: 1
+Word: PDGF B
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: PDGF A
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IGF 1
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...28292882.lem.txt
+repetitions: 5
+Word: Collagen Triple-Helix-Repeat-Containing-1
+Word: Collagen Triple Helix-Repeat-Containing-1
+Word: Collagen Triple Helix Repeat-Containing-1
+WordOrig: Collagen Triple Helix Repeat-Containing-1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: b catenin
+   Biological term tagging file...24669082.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...19393328.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 3
+Word: alpha smooth-muscle-actin
+Word: alpha smooth muscle-actin
+Word: alpha smooth muscle actin
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: alpha SMA
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...27107963.lem.txt
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IP 10
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IP 10
+   Biological term tagging file...29440315.lem.txt
+repetitions: 3
+Word: Janus kinase-type-2
+Word: Janus kinase type-2
+Word: Janus kinase type 2
+WordOrig: Janus kinase type 2
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+   Biological term tagging file...25244495.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: KL 6
+repetitions: 1
+Word: KL 6
+   Biological term tagging file...19543300.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...26884454.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b1
+repetitions: 4
+Word: mothers against-decapentaplegic-homolog-3
+Word: mothers against decapentaplegic-homolog-3
+Word: mothers against decapentaplegic homolog-3
+Word: mothers against decapentaplegic homolog 3
+WordOrig: mothers against decapentaplegic homolog 3
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...22434388.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24478701.lem.txt
+   Biological term tagging file...28336812.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: histone deacetylase
+WordOrig: histone deacetylase
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: NADPH oxidase-4
+Word: NADPH oxidase 4
+WordOrig: NADPH oxidase 4
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: a SMA
+   Biological term tagging file...15281432.lem.txt
+repetitions: 3
+Word: monocyte chemoattractant-protein-1
+Word: monocyte chemoattractant protein-1
+Word: monocyte chemoattractant protein 1
+WordOrig: monocyte chemoattractant protein 1
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: IFN gamma
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: MCP 1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: MCP 1
+   Biological term tagging file...26249221.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: IL 10
+   Biological term tagging file...15563636.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-beta
+Word: Transforming growth factor-beta
+WordOrig: Transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...20952439.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...21577212.lem.txt
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: Thy 1
+repetitions: 1
+Word: MMP 9
+repetitions: 1
+Word: Thy 1
+   Biological term tagging file...22365247.lem.txt
+   Biological term tagging file...22802283.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: Transforming growth-factor-b
+Word: Transforming growth factor-b
+WordOrig: Transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26150910.lem.txt
+repetitions: 1
+Word: n cadherin
+repetitions: 1
+Word: b catenin
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...20550546.lem.txt
+repetitions: 2
+Word: folate receptor-beta
+Word: folate receptor beta
+WordOrig: folate receptor beta
+repetitions: 2
+Word: folate receptor-beta
+Word: folate receptor beta
+WordOrig: folate receptor beta
+   Biological term tagging file...9512902.lem.txt
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 10
+repetitions: 4
+Word: transforming growth-factor-beta-1
+Word: transforming growth factor-beta-1
+Word: transforming growth factor beta-1
+Word: transforming growth factor beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TNF alpha
+   Biological term tagging file...27836973.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: phosphoglycerate dehydrogenase
+WordOrig: phosphoglycerate dehydrogenase
+   Biological term tagging file...20560295.lem.txt
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 6
+repetitions: 1
+Word: IL 8
+repetitions: 1
+Word: IL 10
+repetitions: 1
+Word: IL 18
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 1beta
+repetitions: 1
+Word: TNF alpha
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IL 1beta
+   Biological term tagging file...19104143.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: beta catenin
+repetitions: 1
+Word: beta catenin
+   Biological term tagging file...25214520.lem.txt
+repetitions: 1
+Word: MMP 2
+repetitions: 1
+Word: MMP 7
+repetitions: 1
+Word: MMP 12
+repetitions: 1
+Word: TIMP 1
+repetitions: 1
+Word: PDGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: PAI 1
+repetitions: 1
+Word: Nox 4
+repetitions: 1
+Word: HIF 1a
+repetitions: 1
+Word: ALK 5
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...26231702.lem.txt
+repetitions: 3
+Word: tumor necrosis-factor-alpha
+Word: tumor necrosis factor-alpha
+WordOrig: tumor necrosis factor-alpha
+repetitions: 1
+Word: TNF a
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: IL 6
+repetitions: 2
+Word: heme oxygenase-1
+WordOrig: heme oxygenase-1
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...23418199.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b1
+Word: transforming growth factor-b1
+WordOrig: transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...24279830.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 326
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 326
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: miR 326
+repetitions: 1
+Word: miR 326
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: miR 326
+repetitions: 1
+Word: miR 326
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...24140943.lem.txt
+repetitions: 1
+Word: IL 31
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 31
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 31
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 31
+repetitions: 1
+Word: IL 31
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: IL 31
+   Biological term tagging file...28557137.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...17391951.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IFN gamma
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: IFN gamma
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: IFN gamma
+   Biological term tagging file...19487460.lem.txt
+repetitions: 1
+Word: cyclooxygenase 2
+WordOrig: cyclooxygenase 2
+repetitions: 1
+Word: cyclooxygenase 2
+WordOrig: cyclooxygenase 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 3
+Word: transforming growth-factor-beta1
+Word: transforming growth factor-beta1
+WordOrig: transforming growth factor-beta1
+repetitions: 1
+Word: interleukin 1beta
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: histone deacetylase
+WordOrig: histone deacetylase
+repetitions: 1
+Word: COX 2
+repetitions: 1
+Word: COX 2
+   Biological term tagging file...23986222.lem.txt
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 2
+Word: phosphoinositide 3-kinase
+WordOrig: phosphoinositide 3-kinase
+repetitions: 3
+Word: connective tissue-growth-factor
+Word: connective tissue growth-factor
+Word: connective tissue growth factor
+WordOrig: connective tissue growth factor
+repetitions: 2
+Word: phosphoinositide 3-kinase
+WordOrig: phosphoinositide 3-kinase
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...15117744.lem.txt
+repetitions: 3
+Word: Pigment epithelium-derived-factor
+Word: Pigment epithelium derived-factor
+Word: Pigment epithelium derived factor
+repetitions: 3
+Word: Pigment epithelium-derived-factor
+Word: Pigment epithelium derived-factor
+Word: Pigment epithelium derived factor
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 3
+Word: vascular endothelial-growth-factor
+Word: vascular endothelial growth-factor
+Word: vascular endothelial growth factor
+WordOrig: vascular endothelial growth factor
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+repetitions: 2
+Word: TGF beta-1
+Word: TGF beta 1
+   Biological term tagging file...25252739.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+   Biological term tagging file...21743278.lem.txt
+repetitions: 5
+Word: Receptor for-advanced-glycation-end-products
+Word: Receptor for advanced-glycation-end-products
+Word: Receptor for advanced glycation-end-products
+Word: Receptor for advanced glycation end-products
+Word: Receptor for advanced glycation end products
+WordOrig: Receptor for advanced glycation end products
+   Biological term tagging file...25575513.lem.txt
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...15298857.lem.txt
+repetitions: 3
+Word: Connective tissue-growth-factor
+Word: Connective tissue growth-factor
+Word: Connective tissue growth factor
+WordOrig: Connective tissue growth factor
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 3
+Word: Connective tissue-growth-factor
+Word: Connective tissue growth-factor
+Word: Connective tissue growth factor
+WordOrig: Connective tissue growth factor
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...11812353.lem.txt
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...12243323.lem.txt
+repetitions: 1
+Word: beta galactosidase
+repetitions: 1
+Word: beta galactosidase
+repetitions: 1
+Word: beta gal
+repetitions: 1
+Word: beta gal
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: beta gal
+repetitions: 3
+Word: transforming growth-factor-beta
+Word: transforming growth factor-beta
+WordOrig: transforming growth factor-beta
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...23376055.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: ZO 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: ZO 1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...28751023.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...24515257.lem.txt
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 3
+Word: Jun NH2-terminal-kinase
+Word: Jun NH2 terminal-kinase
+Word: Jun NH2 terminal kinase
+repetitions: 3
+Word: Vascular endothelial-growth-factor
+Word: Vascular endothelial growth-factor
+Word: Vascular endothelial growth factor
+WordOrig: Vascular endothelial growth factor
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: Jun NH2-terminal-kinase
+Word: Jun NH2 terminal-kinase
+Word: Jun NH2 terminal kinase
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...28455433.lem.txt
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 13
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: IL 13
+   Biological term tagging file...26315535.lem.txt
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: NADPH oxidase-4
+Word: NADPH oxidase 4
+WordOrig: NADPH oxidase 4
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 1
+Word: TGF b
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+repetitions: 1
+Word: TGF b1
+repetitions: 2
+Word: miR 9-5p
+Word: miR 9 5p
+   Biological term tagging file...26138704.lem.txt
+repetitions: 1
+Word: IL 1b
+repetitions: 1
+Word: IL 10
+   Biological term tagging file...23344525.lem.txt
+repetitions: 1
+Word: TGF b1
+repetitions: 3
+Word: Transforming growth-factor-b1
+Word: Transforming growth factor-b1
+WordOrig: Transforming growth factor-b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...25111852.lem.txt
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: NF kB
+repetitions: 3
+Word: glucagon like-peptide-1
+Word: glucagon like peptide-1
+WordOrig: glucagon like peptide-1
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: a SMA
+repetitions: 1
+Word: VCAM 1
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: NF kB
+repetitions: 1
+Word: GLP 1
+repetitions: 1
+Word: NF kB
+   Biological term tagging file...22802290.lem.txt
+   Biological term tagging file...22694981.lem.txt
+repetitions: 1
+Word: E cadherin
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+repetitions: 1
+Word: TGF b1
+   Biological term tagging file...16738206.lem.txt
+repetitions: 1
+Word: TGF beta
+   Biological term tagging file...25557625.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...20160152.lem.txt
+repetitions: 1
+Word: TGF beta1
+repetitions: 1
+Word: TGF beta1
+   Biological term tagging file...19129758.lem.txt
+repetitions: 1
+Word: IL 13
+   Biological term tagging file...27144281.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...28060543.lem.txt
+   Biological term tagging file...22923663.lem.txt
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 3
+Word: a smooth-muscle-actin
+Word: a smooth muscle-actin
+Word: a smooth muscle actin
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: hypoxia inducible-factor-1a
+Word: hypoxia inducible factor-1a
+Word: hypoxia inducible factor 1a
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...27909724.lem.txt
+repetitions: 1
+Word: TGF b
+repetitions: 3
+Word: transforming growth-factor-b
+Word: transforming growth factor-b
+WordOrig: transforming growth factor-b
+repetitions: 1
+Word: TGF b
+repetitions: 1
+Word: TGF b
+   Biological term tagging file...16574935.lem.txt
+repetitions: 2
+Word: Hepatocyte growth-factor
+Word: Hepatocyte growth factor
+WordOrig: Hepatocyte growth factor
+repetitions: 1
+Word: serine protease
+WordOrig: serine protease
+repetitions: 1
+Word: HAI 1
+repetitions: 1
+Word: HAI 2
+repetitions: 1
+Word: HAI 1
+repetitions: 1
+Word: HAI 2
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: HAI 1
+repetitions: 1
+Word: HAI 2
+repetitions: 1
+Word: serine protease
+WordOrig: serine protease
+repetitions: 1
+Word: HAI 1
+repetitions: 1
+Word: HAI 2
+repetitions: 1
+Word: HAI 1
+repetitions: 1
+Word: HAI 2
+repetitions: 1
+Word: HAI 2
+repetitions: 1
+Word: TGF beta
+repetitions: 1
+Word: HAI 1
+repetitions: 1
+Word: HAI 2
 
-Files preprocessed: 0
-In: 0.000088s
+Files preprocessed: 455
+In: 0.913000s
