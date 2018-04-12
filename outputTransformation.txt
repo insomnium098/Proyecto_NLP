@@ -1,0 +1,9 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read input files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/term
+Path to place transformed files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/transformed
+Minimum length sentence in number of words: 5
+Classes to indicate final of sentence: None
+Transforming files...
+
+Files processed: 0
+In: 0.000035s

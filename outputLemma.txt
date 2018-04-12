@@ -1,0 +1,8 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read input files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/pos
+Path to place output files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/lemma
+Path BIOLemmatizer command: /Users/daniel/Desktop/ProyectoNLP/ARCHIVOS_NECESARIOS/LEMMA/biolemmatizer
+Lemmatizing corpus...
+
+Files BIOLemmatized: 0
+Files BIOLemmatized in: 0.000045s

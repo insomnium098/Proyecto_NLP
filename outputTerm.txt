@@ -1,0 +1,15 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read input files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/lemma
+Path to place transformed files: /Users/daniel/Desktop/ProyectoNLP/conditional-random-fields/data-sets/term
+Path to read term files: /Users/daniel/Desktop/ProyectoNLP/dictionaries
+Let POS tag instead of substituting it by term or freq tag? False
+Compare with terms in lower case? False
+Compare with capitalize terms? False
+Loading biological term files...
+   Terms read GENE size: 579
+   Terms read GENE size: 579
+
+Biological term tagging files...
+
+Files preprocessed: 0
+In: 0.000088s
