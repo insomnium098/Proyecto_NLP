@@ -7,9 +7,9 @@ JSON file with terms files and length: termFilesLength_TFSummarization.json
 Processing multidocuments within input file?: False
 File with format PMID	NUMSENT	SENT	CLASS?: False
 Join separated punctuation?: False
-   Terms read 3 size: 7518
-   Terms read 5 size: 5413
    Terms read 4 size: 6052
+   Terms read 5 size: 5413
+   Terms read 3 size: 7518
    Terms read 2 size: 7124
 Preprocessing files...
    Preprocessing file...PMID_8955629.txt
@@ -42,4 +42,4 @@ Unnecessary line b'Downloaded from\n'
      Detecting biological terms...
 
 Files preprocessed: 3
-In: 1.031011s
+In: 1.297161s

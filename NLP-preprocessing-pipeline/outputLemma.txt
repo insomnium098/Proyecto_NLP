@@ -29,4 +29,4 @@ Lemmatizing corpus...
    Lemmatizing file...PMID_9324261.pos.txt
 
 Files BIOLemmatized: 3
-Files BIOLemmatized in: 10.254959s
+Files BIOLemmatized in: 9.517247s

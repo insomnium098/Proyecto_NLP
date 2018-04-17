@@ -9,4 +9,4 @@ Tagging corpus...
    Tagging file...PMID_9324261.pre.txt
 
 Files POS Tagged: 3
-Files POS Tagged in: 5.992199s
+Files POS Tagged in: 6.104472s
